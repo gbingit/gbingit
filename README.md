@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Edison Gheng, a 30-year-old Chinese male.
+I am currently working at Apple as a project manager.👨‍💼
+I have learned coding for around 6 months and am particularly interested in fields of statistics and machine learning. 
+Looking forward to contribute to and learn from the big Github community and get knowing with new friends from any place!!!😄
+Feel free to reach me at xiaobogeng39@gmail.com
+
